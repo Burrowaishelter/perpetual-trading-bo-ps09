@@ -1,4 +1,4 @@
-# 
+# exclusive perpetual trading bot Tool | order-book-analysis + slippage-control offers the most advanced perpetual trading bot, with order-book-analysis and slippage-control. Ideal
 
 
 
